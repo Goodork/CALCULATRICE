@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 10 14:01:19 2022
-
-@author: NEUMAN
-"""
 
 """
 REALISER UNE CALCULATRICE EN PTHON TKINTER.
